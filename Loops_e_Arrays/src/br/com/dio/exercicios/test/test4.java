@@ -7,7 +7,10 @@ public class test4 {
         while(count <= 3) {
             ++count;
             num += count;
+            // num = 7
         }
         System.out.println(num);
+        System.out.println(1);
+        System.out.println(2);
     }
 }

@@ -5,7 +5,7 @@ public class test3 {
         int i, num = 5;
         for (i = 0; i < 3; i++) {
             num += i;
-            System.out.print(i);
+            System.out.println(i);
         }
     }
 }
