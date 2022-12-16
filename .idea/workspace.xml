@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c4dbf37-f0d8-4de6-b87b-3b58c0e88452" name="Changes" comment="" />
+    <list default="true" id="0c4dbf37-f0d8-4de6-b87b-3b58c0e88452" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Loops_e_Arrays/src/br/com/dio/exercicios/loops/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops_e_Arrays/src/br/com/dio/exercicios/loops/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,40 +54,74 @@
       <recent name="C:\Users\vmarc\Documents\git\Modulo_2_Loops_e_arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex3_Arrays_NumerosAleatorios">
+  <component name="RunManager" selected="Application.test4">
     <configuration name="Ex1_Arrays_OrdemInversa" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex1_Arrays_OrdemInversa" />
-      <module name="Modulo_2_Loops_e_arrays" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex2_Arrays_Consoantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex2_Arrays_Consoantes" />
+      <option name="MAIN_CLASS_NAME" value="src.br.com.dio.exercicios.arrays.Ex1_Arrays_OrdemInversa" />
       <module name="Modulo_2_Loops_e_arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Ex3_Arrays_NumerosAleatorios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex3_Arrays_NumerosAleatorios" />
+      <option name="MAIN_CLASS_NAME" value="src.br.com.dio.exercicios.arrays.Ex3_Arrays_NumerosAleatorios" />
       <module name="Modulo_2_Loops_e_arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Ex4_Arrays_ArrayMultidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex4_Arrays_ArrayMultidimensional" />
+      <option name="MAIN_CLASS_NAME" value="src.br.com.dio.exercicios.arrays.Ex4_Arrays_ArrayMultidimensional" />
       <module name="Modulo_2_Loops_e_arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.br.com.dio.exercicios.loops.test1" />
+      <module name="Modulo_2_Loops_e_arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.br.com.dio.exercicios.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.br.com.dio.exercicios.loops.test2" />
+      <module name="Modulo_2_Loops_e_arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.br.com.dio.exercicios.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.br.com.dio.exercicios.loops.test4" />
+      <module name="Modulo_2_Loops_e_arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.br.com.dio.exercicios.loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test4" />
+        <item itemvalue="Application.test2" />
+        <item itemvalue="Application.test1" />
         <item itemvalue="Application.Ex3_Arrays_NumerosAleatorios" />
         <item itemvalue="Application.Ex4_Arrays_ArrayMultidimensional" />
-        <item itemvalue="Application.Ex2_Arrays_Consoantes" />
       </list>
     </recent_temporary>
   </component>
