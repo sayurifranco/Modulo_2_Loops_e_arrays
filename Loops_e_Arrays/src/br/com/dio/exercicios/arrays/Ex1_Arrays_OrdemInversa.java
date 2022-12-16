@@ -1,3 +1,5 @@
+package src.br.com.dio.exercicios.arrays;
+
 /*
 Crie um vetor de 6 números inteiros
 e mostre-os na ordem inversa.

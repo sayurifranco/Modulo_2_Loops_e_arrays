@@ -1,4 +1,4 @@
-
+package src.br.com.dio.exercicios.loops;
 /*
 Faça um programa que leia 5 números e
 o maior número e a média desses números.

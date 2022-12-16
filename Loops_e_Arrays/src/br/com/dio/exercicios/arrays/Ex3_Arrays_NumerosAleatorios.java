@@ -1,3 +1,5 @@
+package src.br.com.dio.exercicios.arrays;
+
 import java.util.Random;
 
 /*

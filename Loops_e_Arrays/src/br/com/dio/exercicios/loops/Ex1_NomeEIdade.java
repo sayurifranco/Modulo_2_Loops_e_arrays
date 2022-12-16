@@ -1,3 +1,5 @@
+package src.br.com.dio.exercicios.loops;
+
 import java.util.Scanner;
 
 /**

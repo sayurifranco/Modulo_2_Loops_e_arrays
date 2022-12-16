@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c4dbf37-f0d8-4de6-b87b-3b58c0e88452" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_e_Arrays/Ex1_Arrays_OrdemInversa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_e_Arrays/Ex1_NomeEIdade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_e_Arrays/Ex2_Arrays_Consoantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_e_Arrays/Ex2_Nota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_e_Arrays/Ex3_Arrays_NumerosAleatorios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_e_Arrays/Ex3_MaiorEMedia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_e_Arrays/Ex4_Arrays_ArrayMultidimensional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_e_Arrays/Ex4_ParEImpar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_e_Arrays/Ex5_Tabuada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops_e_Arrays/Ex6_Fatorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Modulo_2_Loops_e_arrays.iml" afterDir="false" />
-    </list>
+    <list default="true" id="0c4dbf37-f0d8-4de6-b87b-3b58c0e88452" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +50,7 @@
       <recent name="C:\Users\vmarc\Documents\git\Modulo_2_Loops_e_arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex4_Arrays_ArrayMultidimensional">
+  <component name="RunManager" selected="Application.Ex3_Arrays_NumerosAleatorios">
     <configuration name="Ex1_Arrays_OrdemInversa" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex1_Arrays_OrdemInversa" />
       <module name="Modulo_2_Loops_e_arrays" />
@@ -99,9 +81,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex3_Arrays_NumerosAleatorios" />
         <item itemvalue="Application.Ex4_Arrays_ArrayMultidimensional" />
         <item itemvalue="Application.Ex2_Arrays_Consoantes" />
-        <item itemvalue="Application.Ex3_Arrays_NumerosAleatorios" />
       </list>
     </recent_temporary>
   </component>

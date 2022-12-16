@@ -1,4 +1,4 @@
-
+package src.br.com.dio.exercicios.loops;
 /*
  Faça um programa que peça N números inteiros.
  Calcule e mostre a quantidade de números pares
